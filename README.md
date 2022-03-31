@@ -1,4 +1,4 @@
-# sb-sample-extension
+# Google Tag Manager Unbounce Smart Builder App
 
 ## Developing apps locally using the Smart Builder
 
