@@ -1,10 +1,10 @@
 {
-  "name": "sb-sample-extension",
-  "description": "Extension Sample",
+  "name": "google-tag-manager-app",
+  "description": "Google Tag Manager Smart Builder App",
   "version": "0.0.0",
   "main": "dist/index.js",
   "keywords": [],
-  "author": "Unbounce - Content Foundations",
+  "author": "Brian Burns",
   "license": "UNLICENSED",
   "browserslist": [
     "last 2 versions"
