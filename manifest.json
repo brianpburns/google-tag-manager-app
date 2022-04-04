@@ -5,7 +5,7 @@
   "description": "Add Google tags to your page.",
   "type": "utility",
   "isBeta": true,
-  "iconUrl": "https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg",
+  "iconUrl": "https://app-assets-unbounce-com.s3.amazonaws.com/content-smart-builder-apps/gtm/icon.svg",
   "moreInfoUrl": "https://support.google.com/tagmanager/answer/6102821?hl=en",
   "categories": ["script"],
   "files": [],
