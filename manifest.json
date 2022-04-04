@@ -14,7 +14,7 @@
       "type": "string",
       "label": "Google Tag Manager Container ID",
       "required": true,
-      "placeholder": "UA-XXXXX-Y"
+      "placeholder": "GTM-XXXXX"
     }
   },
   "externalScripts": ["http://localhost:8081/index.js"]
