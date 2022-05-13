@@ -3,11 +3,11 @@
   "version": "0.1",
   "name": "Google Tag Manager",
   "description": "Add Google tags to your page.",
-  "type": "utility",
+  "type": "tracking",
   "isBeta": true,
   "iconUrl": "https://app-assets-unbounce-com.s3.amazonaws.com/content-smart-builder-apps/gtm/icon.svg",
   "moreInfoUrl": "https://support.google.com/tagmanager/answer/6102821?hl=en",
-  "categories": ["script"],
+  "categories": ["tracking"],
   "files": [],
   "settings": {
     "id": {
